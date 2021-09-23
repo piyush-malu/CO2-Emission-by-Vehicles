@@ -7,10 +7,15 @@ So, I have collected a data set and applied linear regression on this data. This
 
 1. Model 
 4WD/4X4 = Four-wheel drive
+
 AWD = All-wheel drive
+
 FFV = Flexible-fuel vehicle
+
 SWB = Short wheelbase
+
 LWB = Long wheelbase
+
 EWB = Extended wheelbase
 
 2. Transmission
