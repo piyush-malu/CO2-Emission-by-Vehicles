@@ -5,7 +5,7 @@ As per the data reported by Society of Indian Automobile Manufacturers (SIAM) A 
 
 So, I have collected a data set and applied linear regression on this data. This dataset captures the details of how CO2 emissions by a vehicle can vary with the different features. The dataset has been taken from Canada Government official open data website. This is a compiled version. This contains data over a period of 7 years. There are total 7385 rows and 12 columns. There are few abbreviations that has been used to describe the features.
 
-1. Model 
+1.Model 
 
 4WD/4X4 = Four-wheel drive
 
@@ -19,7 +19,8 @@ LWB = Long wheelbase
 
 EWB = Extended wheelbase
 
-2. Transmission
+
+2.Transmission
 
 A = Automatic
 
@@ -33,7 +34,8 @@ M = Manual
 
 3 - 10 = Number of gears
 
-3. Fuel type
+
+3.Fuel type
 
 X = Regular gasoline
 
