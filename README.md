@@ -20,6 +20,7 @@ LWB = Long wheelbase
 EWB = Extended wheelbase
 
 
+
 2.Transmission
 
 A = Automatic
@@ -33,6 +34,7 @@ AV = Continuously variable
 M = Manual
 
 3 - 10 = Number of gears
+
 
 
 3.Fuel type
