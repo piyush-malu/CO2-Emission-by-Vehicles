@@ -8,6 +8,7 @@ So, I have collected a data set and applied linear regression on this data. This
 1. Model 
 
 4WD/4X4 = Four-wheel drive
+
 AWD = All-wheel drive
 
 FFV = Flexible-fuel vehicle
@@ -19,63 +20,50 @@ LWB = Long wheelbase
 EWB = Extended wheelbase
 
 2. Transmission
+
 A = Automatic
+
 AM = Automated manual
+
 AS = Automatic with select shift
+
 AV = Continuously variable
+
 M = Manual
+
 3 - 10 = Number of gears
 
 3. Fuel type
+
 X = Regular gasoline
+
 Z = Premium gasoline
+
 D = Diesel
+
 E = Ethanol (E85)
+
 N = Natural gas
 
 Make= Company of the vehicle
+
 Model= Car model
+
 Vehicle Class= Class of vehicle depending on their utility, capacity and weight
+
 Engine Size = Size of engine used in Litre
+
 Cylinders= Number of cylinders
+
 Transmission = Transmission type with number of gears
+
 Fuel type =Type of Fuel used
+
 Fuel Consumption City=Fuel consumption in city roads (L/100 km)
+
 Fuel Consumption Hwy=Fuel consumption in Hwy roads (L/100 km)
+
 Fuel Consumption Comb=The combined fuel consumption (55% city, 45% highway) is shown in L/100 km
+
 Fuel Consumption Comb mpg =The combined fuel consumption in both city and highway is shown in mile per gallon(mpg)
-1. Model 
 
-4WD/4X4 = Four-wheel drive
-AWD = All-wheel drive
-FFV = Flexible-fuel vehicle
-SWB = Short wheelbase
-LWB = Long wheelbase
-EWB = Extended wheelbase
-
-2. Transmission
-A = Automatic
-AM = Automated manual
-AS = Automatic with select shift
-AV = Continuously variable
-M = Manual
-3 - 10 = Number of gears
-
-3. Fuel type
-X = Regular gasoline
-Z = Premium gasoline
-D = Diesel
-E = Ethanol (E85)
-N = Natural gas
-
-Make= Company of the vehicle
-Model= Car model
-Vehicle Class= Class of vehicle depending on their utility, capacity and weight
-Engine Size = Size of engine used in Litre
-Cylinders= Number of cylinders
-Transmission = Transmission type with number of gears
-Fuel type =Type of Fuel used
-Fuel Consumption City=Fuel consumption in city roads (L/100 km)
-Fuel Consumption Hwy=Fuel consumption in Hwy roads (L/100 km)
-Fuel Consumption Comb=The combined fuel consumption (55% city, 45% highway) is shown in L/100 km
-Fuel Consumption Comb mpg =The combined fuel consumption in both city and highway is shown in mile per gallon(mpg)
