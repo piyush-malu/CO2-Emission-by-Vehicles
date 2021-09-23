@@ -20,7 +20,6 @@ LWB = Long wheelbase
 EWB = Extended wheelbase
 
 
-
 2.Transmission
 
 A = Automatic
@@ -71,3 +70,4 @@ Fuel Consumption Comb=The combined fuel consumption (55% city, 45% highway) is s
 
 Fuel Consumption Comb mpg =The combined fuel consumption in both city and highway is shown in mile per gallon(mpg)
 
+# What is done ?
