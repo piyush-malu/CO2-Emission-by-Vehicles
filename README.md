@@ -75,7 +75,7 @@ Fuel Consumption Comb mpg =The combined fuel consumption in both city and highwa
 
 2.After analyzing, I found the correlation between all colums and plotted the graph to find out relation between different columns using heatmap.
 
-3.Then I spillted the data set into train set and test set. I will use train set to create and train the model and test test to further test and found the accuracy at the end.
+3.Then I splitted the data set into train set and test set. I will use train set to create and train the model and test test to further test and found the accuracy at the end.
 
 4.I applied Linear Regression and fitted the data set and then did the prediction on the test set.
 
